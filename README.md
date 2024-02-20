@@ -47,7 +47,5 @@ Model performance is evaluated using Mean Squared Error (MSE).
 - Learning curves are plotted to visualize model training progress.
   
 ## Project Structure
-BMS_Final.ipynb : Main script to run all model training and evaluation steps.
-data/: Directory containing the dataset files (dst25.xlsx and fuds25.xlsx).
-models/: Directory containing specific model scripts (if applicable).
-results/: Directory to store model results and visualizations (optional).
+- BMS_Final.ipynb : Main script to run all model training and evaluation steps.
+- data/: Directory containing the dataset files (dst25.xlsx and fuds25.xlsx).
